@@ -12,5 +12,5 @@
 - Data Scientist
 
 ## 📫 Contact
-- Email: your-email@gmail.com
-- GitHub: https://github.com/your-username
+- Email: 25520230@gm.uit.edu.vn
+- GitHub: https://github.com/KhanhDan-UIT
